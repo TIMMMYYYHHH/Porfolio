@@ -396,7 +396,7 @@ Welcome
 =============================== */
   /* Mobile */
   #welcome {
-    /* height: 100vh; */
+    height: 100vh;
   }
   #welcome .avatar {
     width: 10rem;
